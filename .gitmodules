@@ -1,0 +1,4 @@
+[submodule "nodejs-api-starter"]
+	path = generators/app/templates
+	url = https://github.com/kriasoft/nodejs-api-starter.git
+	branch = master
